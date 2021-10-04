@@ -1,16 +1,26 @@
 .App {
   text-align: center;
+  margin: 0%;
+  padding: 0%;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.main-info-container {
+  padding: 15%;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.my-name {
+  font-size: 5em;
+  color: white;
+}
+
+.links-text {
+  color: white;
+}
+
+.more-info {
+  height: 250px;
+  background-color: white;
+  font-size: 25px;
 }
 
 .App-header {
@@ -24,15 +34,49 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-github {
+  background: #212529;
+  color: white;
+}
+
+.parallax {
+  /* The image used */
+
+  padding: 0%;
+
+  /* Set a specific height */
+  min-height: 700px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.p-1 {
+  background-image: url("./background.jpg");
+}
+
+.p-2 {
+  background-image: url("./background-scroll.jpg");
 }
