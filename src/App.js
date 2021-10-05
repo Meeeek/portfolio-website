@@ -36,7 +36,7 @@ function App() {
           </p>
 
           <br></br>
-          <a className="resume-link">
+          <a className="resume-link" href="">
             <b>
               LINK TO RESUME
             </b>
