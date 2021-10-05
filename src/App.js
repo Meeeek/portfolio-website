@@ -36,7 +36,7 @@ function App() {
           </p>
 
           <br></br>
-          <a className="resume-link" href="">
+          <a className="resume-link" href="https://www.linkedin.com/in/conrad-fukuzawa-540468198/"> {/*temporary link*/}
             <b>
               LINK TO RESUME
             </b>
