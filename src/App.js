@@ -17,10 +17,10 @@ function App() {
             <a href="https://github.com/Meeeek" target="_black">
               <i className="fa fa-github"></i>
             </a>
-            <a href="https://www.linkedin.com/in/conrad-fukuzawa-540468198/" target="_blank">
+            <a href="https://www.linkedin.com/in/conrad-fukuzawa-540468198/" target="_blank" rel="noreferrer">
               <i className="fa fa-linkedin"></i>
             </a>
-            <a href="https://www.instagram.com/conradfukuzawa/" target="_blank">
+            <a href="https://www.instagram.com/conradfukuzawa/" target="_blank" rel="noreferrer">
               <i className="fa fa-instagram"></i>
             </a>
           </div>
