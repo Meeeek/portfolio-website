@@ -1,6 +1,12 @@
 import './App.css';
+import React, {useEffect} from 'react';
+import ReactDOM from 'react-dom';
 
 function App() {
+  useEffect(() => {
+    document.title = "Conrad Fukuzawa"
+  }, [])
+
   return (
     <div className="App">
       <div className="parallax p-1">
