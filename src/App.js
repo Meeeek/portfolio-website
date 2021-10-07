@@ -17,7 +17,7 @@ function App() {
             <a href="https://github.com/Meeeek" target="_black">
               <i className="fa fa-github"></i>
             </a>
-            <a href="https://www.linkedin.com/in/conrad-fukuzawa-540468198/" target="_blank" rel="noreferrer">
+            <a href="https://www.linkedin.com/in/conrad-fukuzawa/" target="_blank" rel="noreferrer">
               <i className="fa fa-linkedin"></i>
             </a>
             <a href="https://www.instagram.com/conradfukuzawa/" target="_blank" rel="noreferrer">
@@ -36,7 +36,7 @@ function App() {
           </p>
 
           <br></br>
-          <a className="resume-link" href="https://www.linkedin.com/in/conrad-fukuzawa-540468198/"> {/*temporary link*/}
+          <a className="resume-link" href="/resume.pdf"> {/*temporary link*/}
             <b>
               LINK TO RESUME
             </b>
