@@ -1,6 +1,5 @@
 import './App.css';
 import React, {useEffect} from 'react';
-import ReactDOM from 'react-dom';
 
 function App() {
   useEffect(() => {
